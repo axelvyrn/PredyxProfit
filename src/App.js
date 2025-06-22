@@ -158,7 +158,7 @@ const LSMRCalculator = () => {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-800 via-black to-gray-900 text-white animate-fade-in">
         <div className="text-center text-xl shadow-lg p-8 border border-purple-400 rounded-xl bg-opacity-70">
-          🔒 Access Denied<br />Use <code>?access=xyz123</code> in URL
+          🔒 Access Denied<br />Use <code>?access=password</code> in URL
         </div>
       </div>
     );
